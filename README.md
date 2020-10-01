@@ -43,6 +43,17 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+
+## 🙈 About me 
+
+- 🔭 I’m currently working on weather web application
+- 🌱 I’m currently learning data visualization
+- 😄 Pronouns: Identifies itself as an assault helicopter
+- ⚡ Fun fact:
+     * I`m left hand 👊
+     * I sincerely hate PHP
+     * My masters in coding are <a href="https://twitter.com/sarah_edo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Sarah Drasner</a>, <a href="https://twitter.com/willsentance">Will Sentance</a> and <a href="https://twitter.com/getify">Kyle Simpson</a>
+
 ## 🤙 Connect with me
  
 <div >
@@ -65,15 +76,6 @@ No Activity tracked this Week
 
 </div>  
 
-## 🙈 About me 
-
-- 🔭 I’m currently working on weather web application
-- 🌱 I’m currently learning data visualization
-- 😄 Pronouns: Identifies itself as an assault helicopter
-- ⚡ Fun fact:
-     * I`m left hand 👊
-     * I sincerely hate PHP
-     * My masters in coding are <a href="https://twitter.com/sarah_edo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Sarah Drasner</a>, <a href="https://twitter.com/willsentance">Will Sentance</a> and <a href="https://twitter.com/getify">Kyle Simpson</a>
 
 
 
