@@ -55,7 +55,7 @@ No Activity tracked this Week
      * My masters in coding are <a href="https://twitter.com/sarah_edo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Sarah Drasner</a>, <a href="https://twitter.com/willsentance">Will Sentance</a> and <a href="https://twitter.com/getify">Kyle Simpson</a>
 
 ## 🤙 Connect with me
- 
+  
 <div >
  
 <a href="https://www.linkedin.com/in/mkolacz/" target="_blank">
