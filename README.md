@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/header.svg "Header")}
+<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/header.svg" alt='Header' height="100" width='100'/>
 
 ## 💻 My Skill Set  
 
