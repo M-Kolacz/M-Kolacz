@@ -37,6 +37,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Kolacz&show_icons=true&theme=algolia" alt="Michal GitHub Stats" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🤙 Connect with me
  
 <div >
