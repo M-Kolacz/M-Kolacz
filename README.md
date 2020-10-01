@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/undraw_welcome_cats_thqn.svg "Header")]
+[![Header](https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/undraw_welcome_cats_thqn.svg "Header")}
 
 ## 💻 My Skill Set  
 
