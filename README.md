@@ -11,11 +11,6 @@
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" width='100'/> 
 <img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="100" width='100' /> 
  
- 
-
-
-
- 
 </div></td><td valign="top" width="50%">
 
 <h1 align='center'> Backend </h1>   
@@ -23,6 +18,7 @@
 <img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" width='100' /> 
 <img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="100" width='100' />  
 <img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="100" width='100' />    
+<img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="100" width='100' /> 
   
 </div></td>
 
