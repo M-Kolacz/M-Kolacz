@@ -3,7 +3,7 @@
 
 ## 💻 My Skill Set  
 
-<table style='margin : 0 auto'><tr><td valign="top" width="50%">
+<table ><tr><td valign="top" width="50%">
 
 <h1 align='center'> Frontend </h1> 
 
