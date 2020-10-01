@@ -6,9 +6,12 @@
 <h1 align='center'> Frontend </h1> 
 <div align="center">  
 <img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" width='100' />  
-<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/logo.png" height="100" width='100'>
+ <img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/formik.png" alt='Formik' height="100" width='100'>
+<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/logo.png" alt='Material-UI'height="100" width='100'>
 <img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" width='100'/> 
 <img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="100" width='100' /> 
+ 
+ 
 
 
 
