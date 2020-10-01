@@ -1,9 +1,10 @@
 
-## My Skill Set  
+## 💻 My Skill Set  
 
 <table style='margin : 0 auto'><tr><td valign="top" width="50%">
 
 <h1 align='center'> Frontend </h1> 
+
 
 <div align="center">  
 <img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" width='100' />  
@@ -25,7 +26,7 @@
 
 
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/M-Kolacz/M-Kolacz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Kolacz&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -34,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Kolacz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Michal GitHub Stats" />
 </a>
 
-## Connect with me
+## 🤙 Connect with me
 
 <div >
  
