@@ -67,8 +67,8 @@ No Activity tracked this Week
 
 ## 🙈 About me 
 
-- 🔭 I’m currently working on weather web application.
-- 🌱 I’m currently learning data visualization.
+- 🔭 I’m currently working on weather web application
+- 🌱 I’m currently learning data visualization
 - 😄 Pronouns: Identifies itself as an assault helicopter
 - ⚡ Fun fact:
      * I`m left hand 👊
