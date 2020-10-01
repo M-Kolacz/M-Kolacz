@@ -64,12 +64,12 @@
 If i want to include my projects 
 
 <a href="https://github.com/M-Kolacz/PROJECT_NAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Kolacz&repo=REPONAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Kolacz&repo=REPONAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
 </a>
 
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"   />
 </a>   
 
 
@@ -84,4 +84,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-
