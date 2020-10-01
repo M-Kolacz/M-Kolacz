@@ -65,6 +65,17 @@ No Activity tracked this Week
 
 </div>  
 
+## 🙈 About me 
+
+- 🔭 I’m currently working on weather web application.
+- 🌱 I’m currently learning data visualization.
+- 😄 Pronouns: Identifies itself as an assault helicopter
+- ⚡ Fun fact:
+     * I`m left hand 👊
+     * I sincerely hate PHP
+     * My masters in coding are <a href="https://twitter.com/sarah_edo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Sarah Drasner</a>, <a href="https://twitter.com/willsentance">Will Sentance</a> and <a href="https://twitter.com/getify">Kyle Simpson</a>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=M-Kolacz&&style=flat-square" align="right" />
 
@@ -85,12 +96,4 @@ If i want to include my projects
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
+
