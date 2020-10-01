@@ -43,13 +43,36 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-
 </div>  
+
+## GitHub Stats
+
+<a href="https://github.com/M-Kolacz/M-Kolacz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Kolacz&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/M-Kolacz/M-Kolacz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Kolacz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Michal GitHub Stats" />
+</a>
+
+
+
 
 <img src="https://komarev.com/ghpvc/?username=M-Kolacz&&style=flat-square" align="center" />
 
 <!--
 **Rizzes44/Rizzes44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If i want to include my projects 
+
+<a href="https://github.com/M-Kolacz/PROJECT_NAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Kolacz&repo=REPONAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+
 
 Here are some ideas to get you started:
 
