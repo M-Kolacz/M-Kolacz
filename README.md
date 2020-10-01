@@ -25,6 +25,7 @@
 
 </table>  
 
+<img src="https://komarev.com/ghpvc/?username=M-Kolacz&&style=flat-square" align="center" />
 
 <!--
 **Rizzes44/Rizzes44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
