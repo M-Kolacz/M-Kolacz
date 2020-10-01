@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/header.svg" alt='Header'/>
+<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/headerCats.svg" alt='Header'/>
 
 ## 💻 My Skill Set  
 
