@@ -37,14 +37,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Kolacz&show_icons=true&theme=algolia" alt="Michal GitHub Stats" />
 </a>
 
-<!--START_SECTION:waka-->
-```text
-Week: 29 September, 2020 - 06 October, 2020
 
-Other        56 mins         ██████████████▓░░░░░░░░░░   58.84 % 
-JavaScript   39 mins         ██████████░░░░░░░░░░░░░░░   40.66 % 
-```
-<!--END_SECTION:waka-->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Kolacz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🙈 About me 
@@ -88,6 +83,7 @@ JavaScript   39 mins         ██████████░░░░░░░
 **Rizzes44/Rizzes44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 If i want to include my projects 
 
+
 <a href="https://github.com/M-Kolacz/PROJECT_NAME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Kolacz&repo=REPONAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
 </a>
@@ -96,6 +92,15 @@ If i want to include my projects
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"   />
 </a>   
+
+<!--START_SECTION:waka-->
+```text
+Week: 29 September, 2020 - 06 October, 2020
+
+Other        56 mins         ██████████████▓░░░░░░░░░░   58.84 % 
+JavaScript   39 mins         ██████████░░░░░░░░░░░░░░░   40.66 % 
+```
+<!--END_SECTION:waka-->
 
 
 
