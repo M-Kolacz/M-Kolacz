@@ -40,6 +40,14 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Kolacz)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+```text
+Week: 29 September, 2020 - 06 October, 2020
+
+Other        56 mins         ██████████████▓░░░░░░░░░░   58.84 % 
+JavaScript   39 mins         ██████████░░░░░░░░░░░░░░░   40.66 % 
+```
+<!--END_SECTION:waka-->
 
 
 ## 🙈 About me 
@@ -93,14 +101,7 @@ If i want to include my projects
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"   />
 </a>   
 
-<!--START_SECTION:waka-->
-```text
-Week: 29 September, 2020 - 06 October, 2020
 
-Other        56 mins         ██████████████▓░░░░░░░░░░   58.84 % 
-JavaScript   39 mins         ██████████░░░░░░░░░░░░░░░   40.66 % 
-```
-<!--END_SECTION:waka-->
 
 
 
