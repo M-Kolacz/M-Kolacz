@@ -42,7 +42,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Kolacz)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2020 - 10 October, 2020
+Week: 04 October, 2020 - 11 October, 2020
 
 JavaScript   9 hrs 57 mins   █████████████████████▓░░░   86.65 % 
 Other        33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
