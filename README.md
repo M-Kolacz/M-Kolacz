@@ -39,18 +39,9 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Kolacz)](https://github.com/anuraghazra/github-readme-stats)
-<!--START_SECTION:waka-->
-```text
-Week: 22 December, 2020 - 29 December, 2020
 
-JavaScript   15 hrs 49 mins  ███████████████████████▒░   93.94 % 
-CSS          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Git          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-```
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Kolacz&hide_progress=true)](https://github.com/M-Kolacz)
+
 
 
 ## 🙈 About me 
