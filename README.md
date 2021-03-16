@@ -46,11 +46,10 @@
 
 ## 🙈 About me 
 
-- 🔭 I’m currently working on weather web application
-- 🌱 I’m currently learning data visualization
-- 😄 Pronouns: Identifies itself as an assault helicopter
+- 🔭 I’m currently working on PZMarta - insurance services
+- 🌱 I’m currently learning Next.js
 - ⚡ Fun fact:
-     * I`m left hand 👊
+     * I`m left hand 🤚
      * I sincerely hate PHP
      
 
