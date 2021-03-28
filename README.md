@@ -46,7 +46,7 @@
 
 ## 🙈 About me 
 
-- 🔭 I’m currently working on PZMarta - insurance services
+- 🔭 I’m currently working on Enginner Project - Voting system
 - 🌱 I’m currently learning Next.js
 - ⚡ Fun fact:
      * I`m left hand 🤚
