@@ -1,101 +1,39 @@
+# Michał Kołacz
 
-<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/headerCats.svg" alt='Header'/>
+## 🚀 About Me
 
-## 💻 My Skill Set  
+I'm a **Software Engineer** focused on creating scalable, maintainable, and user-centric web applications. My expertise spans front-end technologies like **Remix**, **Next.js**, and TypeScript, combined with backend development and performance optimization. I work closely with developers and business owners to deliver impactful, accessible, and high-performance web solutions.
 
-<table ><tr><td valign="top" width="50%">
+## 🛠️ Technical Stack
 
-<h1 align='center'> Frontend </h1> 
+- Languages: **JavaScript**, **TypeScript**
+- Frontend Frameworks: **React**, **Remix**, **Next.js**
+- Styling Tools: **CSS**, **Tailwind**, **Styled Components**
+- Backend Frameworks: **Node.js**, **Express**
+- Testing Frameworks: **React Testing Library**, **Storybook**, **Cypress**, **Playwright**
+- DevOps: **Docker**, **GitHub Actions**
+- CMS: **Contentful**
+- Databases: **SQLite**, **MongoDB**
+- Design: **Figma**
 
+## 📂 Notable Projects
 
-<div align="center">  
-<img  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="100" width='100' />  
-<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/formik.png" alt='Formik' height="100" width='100'/>
-<img src="https://raw.githubusercontent.com/M-Kolacz/M-Kolacz/master/logo.png" alt='Material-UI'height="100" width='100'/>
-<img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" width='100'/> 
-<img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="100" width='100' /> 
-</div></td><td valign="top" width="50%">
+### 🌱 Ence Pence
 
-<h1 align='center'> Backend </h1>   
+A high-performance, responsive website developed using **React** and **Next.js**, with static rendering techniques to improve speed and SEO. Collaborated closely with stakeholders to deliver a user-focused design.
 
-<div align="center">  
-<img  src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="100" width='100' /> 
-<img  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="100" width='100' />  
-<img  src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="100" width='100' />      
-</div></td>
+- Github: [View Project](https://github.com/M-Kolacz/ence-pence-huta-nex)
 
-</table>  
+### 🦉 Stille
 
+Ongoing full-stack project inspired by the **Epic Stack**. Focuses on scalable architectures, optimized API integration, and exploring modern full-stack concepts.
 
+- Github: [View Project](https://github.com/M-Kolacz/Stille)
 
-## 📈 GitHub Stats
+## 🤝 Let’s Connect
 
-<a href="https://github.com/M-Kolacz/M-Kolacz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Kolacz&theme=algolia&hide=html" />
-</a>
-<a href="https://github.com/M-Kolacz/M-Kolacz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M-Kolacz&show_icons=true&theme=algolia" alt="Michal GitHub Stats" />
-</a>
+- 📧 [Email](mailto:michal.kolacz45@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-kolacz)
+- 🛠️ [GitHub](https://github.com/M-Kolacz)
 
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M_Kolacz&hide_progress=true)](https://github.com/M-Kolacz)
-
-
-
-## 🙈 About me 
-
-- 🔭 I’m currently working on Enginner Project - Voting system
-- 🌱 I’m currently learning Next.js
-- ⚡ Fun fact:
-     * I`m left hand 🤚
-     * I sincerely hate PHP
-     
-
-## 🤙 Connect with me
-  
-<div >
- 
-<a href="https://www.linkedin.com/in/mkolacz/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://medium.com/@michal.kolacz45" target="_blank">
-<img src=https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/M_Kolacz" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-
-
-</div>  
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=M-Kolacz&&style=flat-square" align="right" />
-
-<!--
-**Rizzes44/Rizzes44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-If i want to include my projects 
-
-
-<a href="https://github.com/M-Kolacz/PROJECT_NAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Kolacz&repo=REPONAME&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"   />
-</a>   
-
-
-
-
-
-Here are some ideas to get you started:
-
-
+Feel free to reach out! I’m always open to discussing exciting new projects or collaborations.
