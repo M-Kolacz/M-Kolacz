@@ -2,21 +2,25 @@
 
 > Software Enginner | Epic Web Developer 🚀 | Typescript Wizard 🧙‍♂️
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a **Software Engineer** focused on creating scalable, maintainable, and user-centric web applications. My expertise spans front-end technologies like **Remix**, **Next.js**, and TypeScript, combined with backend development and performance optimization. I work closely with developers and business owners to deliver impactful, accessible, and high-performance web solutions.
+I’m a **Software Engineer** focused on building scalable, maintainable, and user-centric web applications. My core expertise lies in **modern fullstack development** using technologies like **Remix**, **Next.js**, and **TypeScript**.
 
-## 🛠️ Technical Stack
+With 4+ years of experience, I thrive in collaborative environments—working closely with developers, designers, and business stakeholders to deliver solutions that balance technical excellence with business impact.
 
-- Languages: **JavaScript**, **TypeScript**
-- Frontend Frameworks: **React**, **Remix**, **Next.js**
-- Styling Tools: **CSS**, **Tailwind**, **Styled Components**
-- Backend Frameworks: **Node.js**, **Express**
-- Testing Frameworks: **React Testing Library**, **Storybook**, **Cypress**, **Playwright**
-- DevOps: **Docker**, **GitHub Actions**
-- CMS: **Contentful**
-- Databases: **SQLite**, **MongoDB**
-- Design: **Figma**
+## 🛠️ Technical Skills
+
+| **Category**             | **Technologies / Tools**                              | **Highlights**                                                                            |
+| ------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Languages**            | JavaScript, TypeScript                                | Experienced in writing code for both browser and server environments                      |
+| **Frontend Development** | React, Remix, Next.js                                 | Delivered reusable UI libraries and scalable frontend applications                        |
+| **Backend Development**  | Node.js, Express                                      | Built and maintained BFF services, integrating with external APIs                         |
+| **Styling & UI**         | CSS, Tailwind, Styled Components                      | Created responsive, accessible interfaces with maintainable styles                        |
+| **Testing & QA**         | React Testing Library, Storybook, Cypress, Playwright | Implemented robust end-to-end, unit, and integration tests                                |
+| **Databases**            | SQLite, MongoDB                                       | Basic knowledge of managing databases with ORM tools                                      |
+| **DevOps & CI/CD**       | Docker, GitHub Actions                                | Automated deployments and streamlined CI/CD pipelines                                     |
+| **CMS**                  | Contentful                                            | Integrated headless CMS to enable non-technical content management                        |
+| **Design & Prototyping** | Figma                                                 | Designed and prototyped user interfaces independently and in collaboration with designers |
 
 ## 📂 Notable Projects
 
