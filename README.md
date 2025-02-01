@@ -22,19 +22,21 @@ With 4+ years of experience, I thrive in collaborative environments—working cl
 | **CMS**                  | Contentful                                            | Integrated headless CMS to enable non-technical content management                        |
 | **Design & Prototyping** | Figma                                                 | Designed and prototyped user interfaces independently and in collaboration with designers |
 
-## 📂 Notable Projects
+## 📂 Highlighted Projects
 
-### 🌱 Ence Pence
+### 👶 Ence Pence - Nursery Website
 
-A high-performance, responsive website developed using **React** and **Next.js**, with static rendering techniques to improve speed and SEO. Collaborated closely with stakeholders to deliver a user-focused design.
+Developed a high-performance, responsive website using **Next.js**, implementing static rendering to boost speed and SEO. Collaborated with stakeholders to create a user-friendly design tailored to their needs.
 
-- Github: [View Project](https://github.com/M-Kolacz/ence-pence-huta-nex)
+- **Technologies:** Next.js, Tailwind CSS, Netlify
+- **GitHub:** [View Project](https://github.com/M-Kolacz/ence-pence-huta-next)
 
-### 🦉 Stille
+### 🦉 Stille - Personal Blog and Website
 
-Ongoing full-stack project inspired by the **Epic Stack**. Focuses on scalable architectures, optimized API integration, and exploring modern full-stack concepts.
+Developing a scalable full-stack application inspired by the **Epic Stack**, focusing on architecture optimization, API integrations, and modern development practices.
 
-- Github: [View Project](https://github.com/M-Kolacz/Stille)
+- **Technologies:** Remix, Express.js, TypeScript, Fly.io
+- **Github:** [View Project](https://github.com/M-Kolacz/Stille)
 
 ## 🎒 Courses
 
