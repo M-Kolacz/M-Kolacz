@@ -38,23 +38,25 @@ Developing a scalable full-stack application inspired by the **Epic Stack**, foc
 - **Technologies:** Remix, Express.js, TypeScript, Fly.io
 - **Github:** [View Project](https://github.com/M-Kolacz/Stille)
 
-## 🎒 Courses
+## 🎓 Courses & Continuous Learning
 
-Completed courses
+### ✅ Completed Courses
 
-- [Epic Web](https://www.epicweb.dev/full-stack)
-- [Epic React](https://www.epicreact.dev/workshops)
-- [Total TypeScript](https://www.totaltypescript.com/workshops)
-- [CSS for JS](https://css-for-js.dev/)
-- [Testing Accessibility](https://testingaccessibility.com/)
-- [Testing JavaScript](https://www.testingjavascript.com/)
-- [Joy Of React](https://www.joyofreact.com/)
+- [Epic Web](https://www.epicweb.dev/full-stack) — Applied concepts to build full-stack project using modern frameworks and best practices
+- [Epic React](https://www.epicreact.dev/workshops) — Used advanced techniques to create reusable and maintainable React components for production apps
+- [Joy Of React](https://www.joyofreact.com/) — Built dynamic and interactive user interfaces using modern React practices
+- [Total TypeScript](https://www.totaltypescript.com/workshops) — Enhanced TypeScript knowledge to improve type safety and maintainable code in scalable applications
+- [CSS for JS](https://css-for-js.dev/) — Improved UI implementation by writing maintainable and modern CSS in JavaScript-driven projects
+- [Testing Accessibility](https://testingaccessibility.com/) — Integrated accessibility testing techniques to ensure inclusive and user-friendly web applications
+- [Testing JavaScript](https://www.testingjavascript.com/) — Strengthened code reliability with comprehensive testing, including unit, integration, and end-to-end coverage
+- [Advanced Figma](https://www.dive.club/advanced-figma) — Mastered advanced design techniques in Figma, enhancing collaboration with developers and creating intuitive interfaces
+- [UI/UX Design Course](https://designcourse.com/ui-ux) — Completed a comprehensive UI/UX design curriculum, covering design principles, component and layout design, and responsive design for various devices
 
-Courses that I wish to complete in the future
+### 📖 Future Learning
 
-- [SVG Animations](https://www.svg-animations.how/)
-- [Animations on the Web](https://animations.dev/)
-- [Query GG](https://query.gg/?s=tanstack#register)
+- [SVG Animations](https://www.svg-animations.how/) — Learn scalable vector graphics animation techniques to create smooth, engaging visual effects
+- [Animations on the Web](https://animations.dev/) — Master advanced web animation techniques to enhance user experience and interface interactivity
+- [Query GG](https://query.gg/?s=tanstack#register) — Deepen knowledge of React Query for effective data fetching, caching, and real-time updates
 
 ## 🤝 Let’s Connect
 
