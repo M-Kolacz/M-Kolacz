@@ -60,8 +60,8 @@ Developing a scalable full-stack application inspired by the **Epic Stack**, foc
 
 ## 🤝 Let’s Connect
 
+I’m excited to connect with other professionals, collaborate on impactful projects, and explore new opportunities. Feel free to reach out!
+
 - 📧 [Email](mailto:michal.kolacz45@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/m-kolacz)
 - 🛠️ [GitHub](https://github.com/M-Kolacz)
-
-Feel free to reach out! I’m always open to discussing exciting new projects or collaborations.
